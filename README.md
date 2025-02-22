@@ -4,7 +4,7 @@
 A Python tool to evaluate password strength based on length and complexity
 
 ## How to run and use
-1. Clone the repo: `git clone PeterBredell/pass-strength-checker`
+1. Clone the repo: `git clone https://github.com/PeterBredell/pass-strength-checker`
 2. Open command prompt in the directory of the pass.py file
 3. Run: `python pass.py`
 4. Enter your password that you want to test and recieve a strong alternative should your password be too weak.
