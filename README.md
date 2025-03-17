@@ -19,6 +19,6 @@ This is why passwords need to consist of multiple special, lowercase, uppercase 
 ## What did I learn?
 
 In this small project I learned:
-Regular Expressions (re.search): Used regex to check for uppercase letters ([A-Z]), lowercase ([a-z]), digits (\d), and special characters, learning how to match patterns in strings efficiently.
-String Module: Explored string.ascii_letters, string.digits, and string.punctuation to generate random, strong passwords with a diverse character set.
-Join Method: Mastered ''.join() to combine random characters into a single password string, understanding separators and iterable handling.
+Regular Expressions (re.search): Used regex to check for uppercase letters ([A-Z]), lowercase ([a-z]), digits (\d), and special characters, learning how to match patterns in strings efficiently.<br>
+String Module: Explored string.ascii_letters, string.digits, and string.punctuation to generate random, strong passwords with a diverse character set.<br>
+Join Method: Mastered ''.join() to combine random characters into a single password string, understanding separators and iterable handling.<br>
